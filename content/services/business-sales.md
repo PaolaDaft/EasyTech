@@ -1,53 +1,24 @@
 ---
-title: 'Business Sales'
+title: 'Posicionamiento en el Mercado'
 date: 2018-11-28T15:15:26+10:00
 icon: 'services/service-icon-3.png'
 featured: true
 draft: false
-heroHeading: 'Business Sales'
-heroSubHeading: 'We can help value your business and prepare it for sale.'
+heroHeading: 'Posicionamiento en el Mercado'
+heroSubHeading: 'Podemos ayudarle a valorar su empresa y mejorar su alcance'
 heroBackground: 'services/service1.jpg'
 ---
 
-Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia
-vixque dixit negari _ullis stamina_: trahit. Tanta rictus in mitia causa, Phoebo
-nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
-cadet! [Ego](#natisque-tot-traiecta) vitis imagine stagna insidias redigentur
-petunt dempserat dixisse, pro raptae aut male?
+El servicio de posicionamiento en el mercado utilizando la consultoría en IA es una herramienta poderosa que puede proporcionar a las empresas una ventaja competitiva significativa. 
 
-- Dente reponere dixere referre excessitque seque
-- Tacui si cui inde haec ubi trepidas
-- Coniunx nulla aut
+## Potencia tu imagen comercial
 
-## Geniti facinus praeruptam atris ab manus in
+Podemos ofrecerle soluciones personalizadas a los desafíos específicos que enfrenta cada negocio en términos de posicionamiento en el mercado. Estas soluciones pueden incluir análisis de datos y técnicas de aprendizaje automático para comprender mejor el comportamiento del cliente y las tendencias del mercado.
 
-Properas iubar, mercurio regalis caelo Cerberon tetigisset et pervia, maduere
-non _tangere_ tendens corpore sed. Sine genae ominibus cereris, pectebant tum
-[crudelia](#mutavit-lacertos), oscula. Veneris _rumpe tibi_ aliquis paenituisse;
-cum tanti pressus erat _ira magnumque videntem_; fit est misit nec. Est ea
-vacuum Eumelique futurae stringebat facti indicat Hesioneque candore parsque
-patiensque, Perrhaebum **illa**: querenti.
+Le ayudamos a las empresas a desarrollar estrategias de marketing efectivas y personalizadas que se adapten a las necesidades y preferencias de sus clientes. Además, la IA también puede ayudar a las empresas a mejorar la eficiencia en la toma de decisiones y reducir los costos al automatizar ciertas tareas y procesos de negocio.
 
-1. Deum sibi poma lacuque fateor
-2. Nisi vultibus adspicio totosque gladios a novatrix
-3. Regna ducebat
+## Adelantar a la competencia
 
-_Fuit_ eurus promissaque. Faciemque tibi pectore reditum disiecit iam sede
-**foret petebatur** atro, tibi fugienti deus abluit illa, **non**.
+Las empresas necesitan adaptarse a los cambios en el mercado y mantenerse al tanto de las tendencias emergentes. La IA puede ayudar a las empresas a monitorear las redes sociales y otros canales de comunicación para identificar problemas o preocupaciones de los clientes antes de que se conviertan en un problema mayor.
 
-## Vidit si probetne vertitur
-
-In violenta et tamen praeterea populos meorum. Nos carissime Fortuna tellus aevo
-vestigia summae? Ad laedere portentificisque in olentes conbibit animi ad
-iuvenum **inamabile** perosae, **hostis foedantem Rutulos**.
-
-1. Augusta exstinctus dempto repperit ut quati enim
-2. Quae illo sine fatorum
-3. Sub ut Hyadasque specus terraeque coniunx vix
-4. Voce addita est haec
-5. Stagnum pavido sanguine Priamo custodia sed
-
-Iste gente Orpheus sua nec studiosior _et urit certe_ relevare comites vestibus?
-Digredimur _conbibitur citius induruit_ manes pressique Nyctimenen ille comas
-ductae in. Terret solebat misit; gestu erit ora Iunonis sine manus tacuit, carpe
-motibus; opem baculum.
+En última instancia, el servicio de posicionamiento en el mercado utilizando la consultoría en IA puede ser una herramienta valiosa para cualquier empresa que busque mejorar su ventaja competitiva y lograr el éxito en un mercado cada vez más competitivo y en constante evolución.

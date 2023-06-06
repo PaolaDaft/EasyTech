@@ -2,8 +2,8 @@
 title: 'Integrity & Performance'
 weight: 2
 date: 2018-12-06T09:29:16+10:00
-background: 'https://source.unsplash.com/_v-EHHKKW3w/1600x700'
+background: 'https://images.pexels.com/photos/1249586/pexels-photo-1249586.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 align: left
 ---
 
-Theres no limits, Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian.
+La asociación con Google y una empresa de consultoría de inteligencia artificial puede ayudar a las empresas a aprovechar al máximo el potencial de la IA y lograr el éxito en un mundo cada vez más impulsado por la tecnología.

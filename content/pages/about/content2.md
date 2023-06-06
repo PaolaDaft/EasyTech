@@ -1,9 +1,9 @@
 ---
-title: 'Integrity & Performance'
+title: 'Integridad y Profesionalismo'
 weight: 2
 date: 2018-12-06T09:29:16+10:00
-background: 'https://source.unsplash.com/_v-EHHKKW3w/1600x700'
+background: 'https://images.pexels.com/photos/3184395/pexels-photo-3184395.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 align: left
 ---
 
-Theres no limits, Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian.
+Cada miembro del equipo se compromete a mantener altos estándares de honestidad, transparencia y responsabilidad en todas sus acciones y relaciones laborales. La confianza mutua y el respeto son valores fundamentales que permiten que el equipo trabaje de manera efectiva y cohesiva. El equipo se esfuerza por mantener una cultura de retroalimentación constructiva y apoyo mutuo para fomentar el crecimiento y la mejora continua tanto individual como colectivamente.

@@ -2,9 +2,9 @@
 title: 'About'
 date: 2018-12-06T09:29:16+10:00
 layout: 'about'
-heroHeading: 'About Us'
-heroSubHeading: "Established in 1985, we're a team of advisors that puts your business first."
-heroBackground: 'https://source.unsplash.com/sO-JmQj95ec/1600x1000'
+heroHeading: 'Nosotros'
+heroSubHeading: "Somos un equipo multidisciplinario de asesores que da prioridad a su negocio."
+heroBackground: 'https://images.pexels.com/photos/6457579/pexels-photo-6457579.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 ---
 
 <div>

@@ -1,9 +1,9 @@
 ---
-title: 'We Help Business Grow'
+title: 'Ayudamos a las empresas a adaptarse'
 weight: 1
 background: 'images/kevin-bhagat-461952-unsplash.jpg'
 button: 'Our Work'
 buttonLink: 'work'
 ---
 
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian. Aeterno quaestio constituto sea an, no eum intellegat assueverit.
+En los últimos años, la inteligencia artificial (IA) se ha convertido en una herramienta fundamental para optimizar los procesos productivos y mejorar la eficiencia en el sector manufacturero.

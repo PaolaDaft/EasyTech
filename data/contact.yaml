@@ -1,9 +1,9 @@
-email: 'example@example.com'
-phone: 'XXXX XXX XXX'
+email: 'contactanos@easytech.com'
+phone: '777 123 3214'
 businessName: 'Hugo Serif'
 address: |
   123 Some Street
-  City, State 12345
+  Cuernavaca, Morelos 12345
 hours:
   - day: Monday
     open: 8:30am
