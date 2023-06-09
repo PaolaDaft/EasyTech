@@ -1,9 +1,9 @@
 ---
-title: 'Our Difference'
+title: 'Nuestra diferencia'
 weight: 2
 background: ''
-button: 'About Us'
+button: 'Quiénes somos'
 buttonLink: 'about'
 ---
 
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. ipsum dolor sit amet, et essent mediocritatem quo,
+Trabajamos de cerca con nuestros clientes para comprender sus objetivos y necesidades y ofrecer soluciones prácticas y eficaces. 

@@ -1,56 +1,22 @@
 ---
-title: 'Superannuation'
+title: 'Capacitación'
 date: 2018-11-28T15:14:54+10:00
 icon: 'services/service-icon-5.png'
 featured: true
 draft: false
-heroHeading: 'Superannuation'
-heroSubHeading: 'Saving for retirement requires careful planning.'
+heroHeading: 'Capacitación'
+heroSubHeading: 'Mantenerse al día con la evolución de la tecnología y mejorar la eficiencia operativa.'
 heroBackground: 'services/service1.jpg'
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+La capacitación en IA puede ayudar a los empleados a comprender mejor cómo las tecnologías emergentes pueden ser utilizadas en sus roles específicos, permitiéndoles aprovechar al máximo su potencial y hacer su trabajo de manera más efectiva.
 
-## Ne verba patulosque numen vix libet
+## El valor del recurso humano
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+Nos enfocamos en guiar a los empleados a desarrollar habilidades y conocimientos valiosos que pueden ser aplicados en una variedad de roles y departamentos en la empresa. La IA se está volviendo cada vez más importante en una amplia gama de sectores, desde la atención médica hasta la manufactura y el comercio minorista, por lo que la capacitación en esta tecnologia puede ser una habilidad muy valiosa para cualquier empleado.
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+## Prepararse para el futuro
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+Es importante mejorar la cultura empresarial y fomentar la colaboración entre los empleados. Al capacitar a los empleados en tecnologías de IA, las empresas pueden fomentar un ambiente de aprendizaje continuo y fomentar la creatividad y la innovación en toda la organización.
 
-## Postquam tamen
-
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
-
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
-
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
-
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+La capacitación del personal proporciona beneficios significativos para las empresas, desde la mejora de la eficiencia operativa hasta la creación de una cultura empresarial más innovadora y colaborativa. Si las empresas quieren mantenerse competitivas en un mundo cada vez más impulsado por la tecnología, la capacitación en IA es esencial.

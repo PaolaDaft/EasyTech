@@ -1,7 +1,7 @@
 ---
 title: 'Home'
 date: 2018-02-12T15:37:57+07:00
-heroHeading: 'Hero - Hugo Small Business Theme'
-heroSubHeading: 'Hero is a multipurpose Hugo theme with fullscreen hero images and fullwidth sections. It contains content types for a business or portfolio site.'
-heroBackground: 'images/jason-blackeye-1191801-unsplash.jpg'
+heroHeading: 'EasyTech'
+heroSubHeading: 'Desde nuestra consultoría especializada, ofrecemos soluciones personalizadas y adaptadas a las necesidades de cada cliente para implementar tecnologías de IA en la cadena de producción.'
+heroBackground: 'https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
 ---
